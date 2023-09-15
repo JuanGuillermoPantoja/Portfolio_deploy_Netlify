@@ -1,7 +1,7 @@
 import React from 'react'
 import { Header } from '../Header/Header'
 import { Footer } from '../Footer/Footer'
-const desarrolloImg = '../img/desarrollo-software-contact.png'
+import desarrolloImg from '../../img/desarrollo-software-contact.png'
 
 
 export const Contact = () => {

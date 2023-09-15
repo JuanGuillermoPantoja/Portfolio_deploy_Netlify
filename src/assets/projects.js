@@ -1,6 +1,6 @@
-import cachiMovies from '../../img/cachimovies.png'
-import blueasy from '../../img/blueasy.png'   
-import Apptastico from '../../img/apptastico.png'   
+import cachiMovies from '../img/cachimovies.png'
+import blueasy from '../img/blueasy.png'   
+import Apptastico from '../img/apptastico.png'   
 
 
 const projects = [

@@ -1,5 +1,5 @@
 import React from 'react'
-const logo = '../img/jp_logo-removebg.png';
+import  logo from '../../img/jp_logo-removebg.png';
 
 export const Logo = () => {
   return (

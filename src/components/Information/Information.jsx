@@ -1,10 +1,10 @@
 import React from 'react'
 import { NavLink } from 'react-router-dom'
-const meImg = '../img/me-removebg.png'
-const gitHub = '../img/github__icon.png'
-const facebook = '../img/facebook__icon.png'
-const instagram = '../img/instagram__icon.png'
-const discord = '../img/Discord__icon.png'
+import meImg from '../../img/me-removebg.png'
+import gitHub from '../../img/github__icon.png'
+import facebook from '../../img/facebook__icon.png'
+import instagram from '../../img/instagram__icon.png'
+import discord from '../../img/Discord__icon.png'
 
 export const Information = () => {
   return (
